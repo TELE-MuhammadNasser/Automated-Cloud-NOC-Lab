@@ -9,6 +9,8 @@ Automated **NOC Monitoring Lab** using **Terraform** on **AWS**. This project de
 This proves the monitoring agent is active and collecting metrics.
 
 ![Netdata Dashboard](./image_c6a4aa.png)
+![Netdata Dashboard](./image_c6a4ab.png)
+
 
 ### 2. Infrastructure Security (Inbound Rules)
 Security Groups configured for SSH (22) and Netdata (19999).
