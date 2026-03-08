@@ -8,14 +8,14 @@ Automated **NOC Monitoring Lab** using **Terraform** on **AWS**. This project de
 ### 1. Real-time Monitoring (Netdata Dashboard)
 This proves the monitoring agent is active and collecting metrics.
 
-![Netdata Dashboard](./Screenshot from 2026-03-08 01-54-27.png)
+![Netdata Dashboard](./Screenshotfrom2026-03-0801-54-27.png)
 
 ### 2. Infrastructure Security (Inbound Rules)
 Security Groups configured for SSH (22) and Netdata (19999).
 
-![Security Rules](./Screenshot from 2026-03-08 01-56-08.png)
+![Security Rules](./Screenshotfrom2026-03-0801-56-08.png)
 
 ### 3. AWS Resource Map
 Logical view of the VPC, Subnets, and Gateway.
 
-![VPC Map](./Screenshot from 2026-03-08 01-12-13.png)
+![VPC Map](./Screenshotfrom2026-03-0801-12-13.png)
