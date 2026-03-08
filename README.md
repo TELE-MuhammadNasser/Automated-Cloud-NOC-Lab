@@ -21,3 +21,10 @@ Security Groups configured for SSH (22) and Netdata (19999).
 Logical view of the VPC, Subnets, and Gateway.
 
 ![VPC Map](./image_c71928.png)
+
+## 💻 Infrastructure as Code (IaC)
+The environment is fully automated using **Terraform** to ensure consistency and speed.
+
+### Configuration Files:
+- **`main.tf`**: Defines the entire network topology (VPC, Subnet, IGW) and the Ubuntu 24.04 instances for the NOC Lab.
+- **`outputs.tf`**: Automatically displays the Public IPs of the servers after deployment for immediate monitoring access.
